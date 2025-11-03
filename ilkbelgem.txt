@@ -1,4 +1,5 @@
 
 drag drop olamdı içeriden yazıyorum v1
 sonra da yandal a girdim bunları yazdım
+hadi cursor
 
